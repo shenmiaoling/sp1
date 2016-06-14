@@ -11,7 +11,7 @@ const sassLoaders = [
 
 module.exports = {
   entry: {
-    index: './index.js',
+    index: './main.js',
     vendors: [
       'react',
       'react-dom',

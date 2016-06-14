@@ -20,8 +20,8 @@ npm install style-loader --save-dev
 npm install postcss-loader --save-dev
 npm install extract-text-webpack-plugin --save-dev
 
-npm install validator --save
+# npm install validator --save
 npm install underscore --save
 npm install superagent --save
 npm install assets-webpack-plugin --save
-npm install bootstrap@4.0.0-alpha.2 --save-dev
+# npm install bootstrap@4.0.0-alpha.2 --save-dev
